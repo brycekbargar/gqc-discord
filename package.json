@@ -1,0 +1,19 @@
+{
+  "name": "gqc-discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brycekbargar/gqc-discord.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brycekbargar/gqc-discord/issues"
+  },
+  "homepage": "https://github.com/brycekbargar/gqc-discord#readme"
+}
