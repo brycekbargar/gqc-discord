@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/brycekbargar/gqc-discord/issues"
   },
-  "homepage": "https://github.com/brycekbargar/gqc-discord#readme"
+  "homepage": "https://github.com/brycekbargar/gqc-discord#readme",
+  "dependencies": {
+    "discord-spoiler-bot": "^2.0.5"
+  }
 }
